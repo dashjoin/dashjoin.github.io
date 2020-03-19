@@ -114,6 +114,7 @@ THE SOFTWARE.
 MIT
 
 @dashjoin/json-schema-form
+Apache-2.0
 
 core-js
 MIT
